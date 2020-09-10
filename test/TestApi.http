@@ -1,0 +1,9 @@
+POST http://admin:admin@127.0.0.1:9000
+Content-Type: application/csv
+
+Mary,200,01.09.2020
+Marianne,100,01.09.2010
+Jane,400,01.09.2019
+George,300,01.09.2020
+Georgi,299,01.09.2020
+Nonce,400,01.09.2020
